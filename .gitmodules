@@ -1,3 +1,9 @@
 [submodule "Routing"]
 	path = Routing
 	url = https://github.com/ClemOwe/Routing.git
+[submodule "DB"]
+	path = DB
+	url = https://github.com/ThisIsBacya/ProjectDB
+[submodule "Front"]
+	path = Front
+	url = https://github.com/han3223/Front.git
